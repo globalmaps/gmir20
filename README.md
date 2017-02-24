@@ -12,7 +12,7 @@ Credit: "Global Map of Iran © ISCGM/National Cartographic Center, Iran"
 
 Contact: National Cartographic Center.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/iran.png)
+E-mail: ![email](email.png)
 
 Postal address: National Cartographic Center (Tehran / IRAN - P.O.Box 13185-1684, Meraj Ave., Azadi Sq.)
 
